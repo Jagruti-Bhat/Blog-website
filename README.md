@@ -1,3 +1,3 @@
 # Blog Website
 
-A website to write daily blogs or anything in general.
+A website to write daily blogs in general.
